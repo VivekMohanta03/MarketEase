@@ -7,7 +7,7 @@ In a rapidly evolving business landscape, traditional brick-and-mortar establish
 A solution is needed to create user-friendly online platforms that showcase products, engage customers, and facilitate transactions. This solution should bridge the traditional-digital gap by offering easy setup, customization, secure payment integration, and customer interaction features, empowering businesses to thrive in the digital age.
 
 ## Proposed Solution
-**MarketEase**: An all-in-one web platform streamlining the transition of brick-and-mortar businesses online. It offers user-friendly storefront creation, customizable templates, secure payments, social media integration, responsive design, and analytics, empowering businesses for digital success.
+**MarketEase**: An all-in-one web platform streamlining the transition of brick-and-mortar businesses online. It offers user-friendly storefront creation, customizable templates, secure payments, responsive design, and analytics, empowering businesses for digital success.
 
 ## Uniqueness
 - Simplicity and Accessibility
