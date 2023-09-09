@@ -45,4 +45,4 @@ A solution is needed to create user-friendly online platforms that showcase prod
 
 - [@Vivek Kumar Mohanta](https://github.com/VivekMohanta03)
 - [@Arya Aditya Dash](https://github.com/aryaaditya3609)
-- [@Ayush Kumar Dash](https://github.com/)
+- [@Ayush Kumar Dash](https://github.com/ROCK1235)
