@@ -5,7 +5,7 @@ const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 app.use(cors({
-  origin: ['https://market-ease.vercel.app/',],
+  origin: ['https://market-ease.vercel.app',],
   credentials: true
 }));
 
